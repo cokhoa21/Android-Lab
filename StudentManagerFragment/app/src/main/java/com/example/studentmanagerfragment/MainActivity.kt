@@ -17,8 +17,8 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var studentListView: ListView
     val students = mutableListOf(
-        "Nguyen Van A - 20210163",
-        "Nguyen Van B - 20210163"
+        "Co Huy Khoa 1 - 20215065",
+        "Co Huy Khoa 2 - 20215065"
     )
     private lateinit var adapter: ArrayAdapter<String>
 
